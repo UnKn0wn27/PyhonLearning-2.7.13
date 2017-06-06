@@ -1,0 +1,5 @@
+>>> from u_m import multiply
+>>> multiply(3, 4)
+12
+>>> multiply('a', 3)
+'aaa'
